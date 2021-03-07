@@ -1,0 +1,6 @@
+See file:///C:/Users/Aaron/Desktop/Assignment%202/build/tmp/compileMynativelibrarySharedLibraryMynativelibraryC/output.txt for all output for compileMynativelibrarySharedLibraryMynativelibraryC.
+compiling Plugin.c failed.
+Plugin.c
+C:\Users\Aaron\Desktop\Assignment 2\src\main\c\Plugin.c(1): fatal error C1083: Cannot open include file: 'jni.h': No such file or directory
+
+Finished compileMynativelibrarySharedLibraryMynativelibraryC, see full log file:///C:/Users/Aaron/Desktop/Assignment%202/build/tmp/compileMynativelibrarySharedLibraryMynativelibraryC/output.txt.

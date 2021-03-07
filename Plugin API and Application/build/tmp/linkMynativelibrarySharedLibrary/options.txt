@@ -1,0 +1,8 @@
+"/OUT:C:\Users\Aaron\Desktop\Assignment 2\build\libs\mynativelibrary\shared\mynativelibrary.dll"
+/NOLOGO
+/DLL
+"/IMPLIB:C:\Users\Aaron\Desktop\Assignment 2\build\libs\mynativelibrary\shared\mynativelibrary.lib"
+"/LIBPATH:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\lib\x86"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0\um\x86"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0\ucrt\x86"
+"C:\Users\Aaron\Desktop\Assignment 2\build\objs\mynativelibrary\shared\mynativelibraryC\4t4h00dpyxpyjmxo342chazuv\Plugin.obj"

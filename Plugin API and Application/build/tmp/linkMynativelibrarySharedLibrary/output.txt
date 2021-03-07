@@ -1,0 +1,4 @@
+See file:///C:/Users/Aaron/Desktop/Assignment%202/build/tmp/linkMynativelibrarySharedLibrary/output.txt for all output for linkMynativelibrarySharedLibrary.
+linking mynativelibrary.dll successful.
+
+Finished linkMynativelibrarySharedLibrary, see full log file:///C:/Users/Aaron/Desktop/Assignment%202/build/tmp/linkMynativelibrarySharedLibrary/output.txt.

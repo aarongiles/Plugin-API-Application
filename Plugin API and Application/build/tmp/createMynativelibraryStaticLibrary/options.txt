@@ -1,0 +1,3 @@
+"/OUT:C:\Users\Aaron\Desktop\Assignment 2\build\libs\mynativelibrary\static\mynativelibrary.lib"
+/NOLOGO
+"C:\Users\Aaron\Desktop\Assignment 2\build\objs\mynativelibrary\static\mynativelibraryC\4t4h00dpyxpyjmxo342chazuv\Plugin.obj"

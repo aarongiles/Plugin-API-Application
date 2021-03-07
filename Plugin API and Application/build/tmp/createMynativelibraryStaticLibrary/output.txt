@@ -1,0 +1,4 @@
+See file:///C:/Users/Aaron/Desktop/Assignment%202/build/tmp/createMynativelibraryStaticLibrary/output.txt for all output for createMynativelibraryStaticLibrary.
+archiving mynativelibrary.lib successful.
+
+Finished createMynativelibraryStaticLibrary, see full log file:///C:/Users/Aaron/Desktop/Assignment%202/build/tmp/createMynativelibraryStaticLibrary/output.txt.
