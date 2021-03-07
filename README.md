@@ -1,7 +1,5 @@
 # Plugin API/Application
-gradlew run does not work, instead, the easiest way to run this isjust going into the build folder and running the class file Evauluator
-and it works fine.
-
+To run this go into the build folder and running the class file Evauluator.
 
 Once the program is running you can add plugins by typing 'plugin CSVPlugin' for example
 Be sure to make sure it is spelt correctly, there is no real validation of this except a try catch
